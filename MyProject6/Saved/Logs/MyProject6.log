@@ -634,3 +634,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.04.20-18.16.23:328][321]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/VirtualRealityBP/Maps/StartupMap_BuiltData.StartupMap_BuiltData
 [2021.04.20-18.16.25:818][471]LogSlate: Window 'Toolbar' being destroyed
 [2021.04.20-18.16.25:823][471]LogSlate: Window 'Toolbar' being destroyed
+[2021.04.20-18.30.21:413][933]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ciao1" FILE="../../../../../../Users/ACER/Documents/GitHub/Contest1/MyProject6/Content/ciao1.uasset" SILENT=true
+[2021.04.20-18.30.21:420][933]LogSavePackage: Moving '../../../../../../Users/ACER/Documents/GitHub/Contest1/MyProject6/Saved/ciao1602A7DE04C1A35B40E62EEBB49E1048C.tmp' to '../../../../../../Users/ACER/Documents/GitHub/Contest1/MyProject6/Content/ciao1.uasset'
+[2021.04.20-18.30.21:437][933]AssetCheck: New page: Asset Save: ciao1
+[2021.04.20-18.30.21:437][933]LogContentValidation: Display: Validating WidgetBlueprint /Game/ciao1.ciao1
